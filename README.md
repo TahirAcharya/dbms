@@ -1,6 +1,6 @@
 # 📘 DBMS - BCS403
 
-Welcome to the DBMS (Database Management Systems) repository for BCS403. This repository contains comprehensive resources to assist my students and other teachers in understanding and teaching DBMS concepts effectively.
+Welcome to the DBMS (Database Management Systems) repository for BCS403. This repository contains comprehensive resources to assist my students and teachers in understanding and teaching DBMS concepts effectively.
 
 ## 📂 Repository Structure
 
@@ -8,6 +8,8 @@ Welcome to the DBMS (Database Management Systems) repository for BCS403. This re
 - **[Module 1/](https://github.com/TahirAcharya/dbms/tree/main/Module%201)**: Lecture notes and materials for Module 1.
 - **[Module 2/](https://github.com/TahirAcharya/dbms/tree/main/Module%202)**: Lecture notes and materials for Module 2.
 - **[Module 3/](https://github.com/TahirAcharya/dbms/tree/main/Module%203)**: Lecture notes and materials for Module 3.
+- **[Module 4/](https://github.com/TahirAcharya/dbms/tree/main/Module%204)**: Lecture notes and materials for Module 4.
+- **[Module 5/](https://github.com/TahirAcharya/dbms/tree/main/Module%205)**: Lecture notes and materials for Module 5.
 - **[Project_Work_Tutorial_Files/](https://github.com/TahirAcharya/dbms/tree/main/Project_Work_Tutorial_Files)**: Tutorials and resources for project work.
 - **[QP&ANSWERS/](https://github.com/TahirAcharya/dbms/tree/main/QP%26ANSWERS)**: Previous question papers and answer keys.
 - **[BCS403 Syllabus.pdf](https://github.com/TahirAcharya/dbms/blob/main/BCS403%20Syllabus.pdf)**: Official syllabus document.
@@ -19,6 +21,13 @@ Welcome to the DBMS (Database Management Systems) repository for BCS403. This re
 
 To get started with the materials:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/TahirAcharya/dbms.git
+```bash
+git clone https://github.com/TahirAcharya/dbms.git
+
+```
+
+🤝 Contributing
+Contributions are welcome! If you have notes, corrections, or additional resources to share, please fork the repository and submit a pull request.
+
+📬 Contact
+For any queries or suggestions, please open an issue in the repository or contact me via tahir2968@acharya.ac.in
