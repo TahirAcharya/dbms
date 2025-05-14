@@ -2,6 +2,10 @@
 
 Welcome to the DBMS (Database Management Systems) repository for BCS403. This repository contains comprehensive resources to assist my students and teachers in understanding and teaching DBMS concepts effectively.
 
+
+Videos:
+[https://drive.google.com/file/d/1Z-si0MAVC6e8UWOj3c43K5Sx7SOJDO8t](https://drive.google.com/file/d/1Z-si0MAVC6e8UWOj3c43K5Sx7SOJDO8t)
+
 ## 📂 Repository Structure
 
 - **[DBMS Lab/](https://github.com/TahirAcharya/dbms/tree/main/DBMS%20Lab)**: Practical lab exercises and solutions.
