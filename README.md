@@ -9,7 +9,7 @@ Purpose of Concurrency Control ,Two phase Locking:
 
 Two-Phase Locking Techniques: The algorithm,Deadlock,Deadlock prevention,Deadlock avoidance, Starvation,Timestamp, Granularity of data items and Multiple Granularity Locking
 
-[https://drive.google.com/file/d/1CSBGe6T4kwz35JcW7wRW3M_eyOQS9N1s](https://drive.google.com/file/d/1CSBGe6T4kwz35JcW7wRW3M_eyOQS9N1s)
+[https://youtu.be/AGrt8aFiYjY](https://youtu.be/AGrt8aFiYjY)
 
 ## 📂 Repository Structure
 
