@@ -4,7 +4,12 @@ Welcome to the DBMS (Database Management Systems) repository for BCS403. This re
 
 
 Videos:
+Purpose of Concurrency Control ,Two phase Locking: 
 [https://drive.google.com/file/d/1Z-si0MAVC6e8UWOj3c43K5Sx7SOJDO8t](https://drive.google.com/file/d/1Z-si0MAVC6e8UWOj3c43K5Sx7SOJDO8t)
+
+Two-Phase Locking Techniques: The algorithm,Deadlock,Deadlock prevention,Deadlock avoidance, Starvation,Timestamp, Granularity of data items and Multiple Granularity Locking
+
+[https://drive.google.com/file/d/1CSBGe6T4kwz35JcW7wRW3M_eyOQS9N1s](https://drive.google.com/file/d/1CSBGe6T4kwz35JcW7wRW3M_eyOQS9N1s)
 
 ## 📂 Repository Structure
 
